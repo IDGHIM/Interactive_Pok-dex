@@ -44,13 +44,13 @@ Un Pokédex moderne et interactif avec des cartes 3D retournables, créé en HTM
 
 1. **Clonez le repository**
 ```bash
-git clone https://github.com/votre-username/pokedex-3d.git
-cd pokedex-3d
+git clone https://github.com/IDGHIM/Interactive_Pok-dex.git
+cd Interactive_Pok-dex
 ```
 
 2. **Structure des fichiers**
 ```
-pokedex-3d/
+Interactive_Pok-dex/
 │
 ├── index.html      # Structure HTML principale
 ├── styles.css      # Styles et animations 3D
